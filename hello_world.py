@@ -6,15 +6,15 @@ if input01 >= 1:
     list.append(input01)
     input01 = input01-1
 if input01 >= 1:
-    input05 = (input("Second Letter"))
+    input02 = (input("Second Letter"))
     list.append(input02)
     input01 = input01-1
 if input01 >= 1:
-    input05 = (input("Third Letter"))
+    input03 = (input("Third Letter"))
     list.append(input03)
     input01 = input01-1
 if input01 >= 1:
-    input05 = (input("Fourth Letter"))
+    input04 = (input("Fourth Letter"))
     list.append(input04)
     input01 = input01-1
 if input01 >= 1:
